@@ -8,6 +8,8 @@ https://github.com/alkisax/coutnriesData
 
 https://github.com/alkisax/FinlandMOOCFullStack/tree/master/part2/countriesdata/src
 
+**Full README.MD:** https://github.com/alkisax/coutnriesData/tree/gh-pages#readme
+
 ## Introduction
 
 The CountriesData app was developed as an interactive React-based application that allows users to search and explore detailed information about countries around the world. This tool provides comprehensive country profiles, including demographic data, geographical information, and current weather conditions, all within a responsive and user-friendly interface. This app was created as part of lessons of part 2 Finland mooc Full Stack in january 2025
